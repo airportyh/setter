@@ -1,0 +1,19 @@
+{
+  "name": "setter",
+  "version": "0.0.0",
+  "description": "Sets attributes on an Javascript object and fires change events ala Backbone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "keywords": [
+    "data",
+    "model"
+  ],
+  "author": "Toby Ho",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~1.1.1",
+    "ispy": "~0.1.2"
+  }
+}
